@@ -15,7 +15,7 @@ const posts = [
     caption: "Awesome stuff🧑🏻‍💻",
   },
   {
-    username: "dipambitabaishya",
+    username: "dipambitabaishyadas",
     place: "Nalbari",
     caption: "Great deal😀",
   },
