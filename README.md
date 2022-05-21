@@ -48,6 +48,8 @@ Features -
 
 ## 💉 Screenshots
 
+https://user-images.githubusercontent.com/75943412/169647442-d53335dc-41c4-4395-93fd-1ebf3524d71e.mp4
+
 ![1](readme_assets/1.png)
 ![2](readme_assets/2.png)
 ![3](readme_assets/3.png)
@@ -65,7 +67,7 @@ Features -
 
 ## 🎊 Getting Started
 
-On successful installation of prerequisites create a username amongst below -
+After successful installation of the prerequisites, choose a username from the following -
 
 - manikangkandas
 - gayatridas
